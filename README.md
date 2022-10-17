@@ -25,18 +25,20 @@ Here are some ideas to get you started:
 <img alt="Typing" length="200px" width="500" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Perfer+et+obdura,+dolor+hic+tibi+proderit+olim" />
  </h1>
 
- <h1 align="left">👨🏻‍💻 About Me:</h1>
+ <h1 align="left">🏹Study:</h1>
+ 
+- 🗣 Checklist example [cheklist](https://clck.ru/32Pkee)
+- 🗣 Тест-кейс example [test case](https://clck.ru/32Pkh3)
+- 🗣 Баг-репорт example [bug report](https://clck.ru/32PkjV)
 
-4. 🗣 Checklist example [что-то вставить - может картинку](https://clck.ru/32Pkee)
-4. 🗣 Тест-кейс example [что-то вставить - может картинку](https://clck.ru/32Pkh3)
-4. 🗣 Баг-репорт example [что-то вставить - может картинку](https://clck.ru/32PkjV)
-- :computer: I'm currently working on MERN Stack
-- :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-- :trophy: Grand 
-- :zap: Fun fact: I love to <br>
+ <h1 align="left">👨🏻‍💻 About Me:</h1>
+ 
+- :man_technologist: Working 24/7/365
+- :rocket: Today is the best day to act
+- :dart: Aimed to improve my existing skills and develop professionally in the IT industry
+- :book: Just read it - "Atlas Shrugged"
+- :trophy: Success is one percent inspiration, ninety-nine percent perspiration
+- :crown: Don't give up. Just try one more time
 
 <h1 align="left">:heart: Let's get connected:</h1>
 <a href="https://t.me/vkhudasov" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="vkhudasov" height="200" width="200" /></a>
