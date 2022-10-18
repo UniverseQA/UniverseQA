@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
  <h1 align="left">👨🏻‍💻 About Me:</h1>
  
-- :man_technologist: Working 24/7/365
+- :man_technologist: Studying 24/7/365
 - :rocket: Today is the best day to act
 - :dart: Aimed to improve my existing skills and develop professionally in the IT industry
 - :book: Just read it - "Atlas Shrugged"
