@@ -27,18 +27,18 @@ Here are some ideas to get you started:
 
  <h1 align="left">🏹Study:</h1>
  
-- 🗣 Checklist example [cheklist](https://clck.ru/32Pkee)
-- 🗣 Тест-кейс example [test case](https://clck.ru/32Pkh3)
-- 🗣 Баг-репорт example [bug report](https://clck.ru/32PkjV)
+🗣 Checklist example [cheklist](https://clck.ru/32Pkee)  
+🗣 Тест-кейс example [test case](https://clck.ru/32Pkh3)  
+🗣 Баг-репорт example [bug report](https://clck.ru/32PkjV)  
 
  <h1 align="left">👨🏻‍💻 About Me:</h1>
  
-- :man_technologist: Studying 24/7/365
-- :rocket: Today is the best day to act
-- :dart: Aimed to improve my existing skills and develop professionally in the IT industry
-- :book: Just read it - "Atlas Shrugged"
-- :trophy: Success is one percent inspiration, ninety-nine percent perspiration
-- :crown: Don't give up. Just try one more time
+:man_technologist: Studying 24/7/365  
+:rocket: Today is the best day to act  
+:dart: Aimed to improve my existing skills and develop professionally in the IT industry  
+:book: Just read it - "Atlas Shrugged"  
+:trophy: Success is one percent inspiration, ninety-nine percent perspiration  
+:crown: Don't give up. Just try one more time  
 
 <h1 align="left">:heart: Let's get connected:</h1>
 <a href="https://t.me/vkhudasov" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="vkhudasov" height="200" width="200" /></a>
