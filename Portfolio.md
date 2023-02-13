@@ -15,11 +15,11 @@ Apache, Git, Docker, Docker-compose, Chrome DevTools, Atlassian JIRA
 
 # Мои сертификаты Нетологии и не только
 
-- Ручное тестирование веб-приложений 
-- GIT 
-- Java для тестировщиков 
-- Автоматизированное тестирование
-- Интерактивный тренажёр по SQL
+- Ручное тестирование веб-приложений https://github.com/UniverseQA/UniverseQA/blob/main/Certificates/manual.pdf
+- GIT https://github.com/UniverseQA/UniverseQA/blob/main/Certificates/git.pdf
+- Java для тестировщиков https://github.com/UniverseQA/UniverseQA/blob/main/Certificates/java.pdf
+- Автоматизированное тестирование https://github.com/UniverseQA/UniverseQA/blob/main/Certificates/automation.pdf
+- Интерактивный тренажёр по SQL https://github.com/UniverseQA/UniverseQA/blob/main/Certificates/sql.pdf
 
 # Связь со мной
 :iphone: Телефон +7 953 659-70-24  
