@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 
  <h1 align="left">🏹Study:</h1>
  
-🗣 Checklist example [cheklist](https://clck.ru/32Pkee)  
-🗣 Тест-кейс example [test case](https://clck.ru/32Pkh3)  
-🗣 Баг-репорт example [bug report](https://clck.ru/32PkjV)  
+🗣 My portfolio [Netology](Portfolio.md)  
+ 
 
  <h1 align="left">👨🏻‍💻 About Me:</h1>
  
