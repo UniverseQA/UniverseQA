@@ -24,6 +24,7 @@ Apache, Git, Docker, Docker-compose, Chrome DevTools, Atlassian JIRA
 
 # Связь со мной
 :iphone: Телефон +7 953 659-70-24  
-:e-mail: Почта vladislavhudasov@yandex.ru            
+:e-mail: Почта vladislavhudasov@yandex.ru  
+📜 Резюме https://clck.ru/33ZKPQ  
 🖹 Телеграм https://t.me/vkhudasov  
 💎 ВКонтакте https://vk.com/vkhudasov
