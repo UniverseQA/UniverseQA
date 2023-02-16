@@ -15,6 +15,7 @@ Apache, Git, Docker, Docker-compose, Chrome DevTools, Atlassian JIRA
 
 # Мои сертификаты Нетологии и не только
 
+- Курс "Тестировщик ПО" https://github.com/UniverseQA/UniverseQA/blob/main/Certificates/qa.pdf
 - Ручное тестирование веб-приложений https://github.com/UniverseQA/UniverseQA/blob/main/Certificates/manual.pdf
 - GIT https://github.com/UniverseQA/UniverseQA/blob/main/Certificates/git.pdf
 - Java для тестировщиков https://github.com/UniverseQA/UniverseQA/blob/main/Certificates/java.pdf
