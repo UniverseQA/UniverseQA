@@ -4,7 +4,7 @@
 
 # Мой стек
 
-Windows, Bash, Intellij IDEA, Gradle, Lombok, Allure, Faker, Selenide, JUnit Jupiter, PuTTY, MySQL, AppVeyor, 
+Windows, Intellij IDEA, Gradle, Lombok, Allure, Faker, Selenide, JUnit Jupiter, PuTTY, MySQL, AppVeyor, 
 Apache, Git, Docker, Docker-compose, Chrome DevTools, Atlassian JIRA
 
 # Мои проекты
@@ -25,6 +25,6 @@ Apache, Git, Docker, Docker-compose, Chrome DevTools, Atlassian JIRA
 # Связь со мной
 :iphone: Телефон +7 953 659-70-24  
 :e-mail: Почта vladislavhudasov@yandex.ru  
-📜 Резюме https://clck.ru/33ZLzj  
+📜 Резюме https://clck.ru/33c49V  
 🖹 Телеграм https://t.me/vkhudasov  
 💎 ВКонтакте https://vk.com/vkhudasov
